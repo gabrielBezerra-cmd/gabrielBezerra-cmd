@@ -2,10 +2,6 @@
 
 <script>
 
-img{
-    -webkit-transform: scale(1.5);
-    transform: scale(1.5);
-}
 
 </script>
 
