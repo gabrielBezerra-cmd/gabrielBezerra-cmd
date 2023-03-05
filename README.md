@@ -1,10 +1,5 @@
 <html>
 
-<script>
-
-
-</script>
-
 <body>
 <div style="display: flex; justify-content: flex-end">
 
