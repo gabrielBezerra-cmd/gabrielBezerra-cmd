@@ -12,7 +12,7 @@
 Here you will find some of my projects and ideas. I hope you find something <b>useful</b>.
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielBezerra-cmd&show_icons=true&bg_color=00000000)
-[![Gabriel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielBezerra-cmd&hide_progress=true)](https://github.com/gabrielBezerra-cmd/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielBezerra-cmd&layout=compact)](https://github.com/gabrielBezerra-cmd/github-readme-stats)
 
 🚀 Skills
 
